@@ -2,7 +2,7 @@
 
 ## 💲 Обо мне
 
-- 𝙻𝚒𝚟𝚒𝚗𝚐 𝚒𝚗 𝚂𝚝. 𝙿𝚎𝚝𝚎𝚛𝚜𝚋𝚞𝚛𝚐, 𝚁𝚞𝚜𝚜𝚒𝚊 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ihHlMvsu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/69526a37d84d274e6e01da07bf0ed0b5/tenor.gif" height=150px align="right">
+- 𝙻𝚒𝚟𝚒𝚗𝚐 𝚒𝚗 𝚂𝚝. 𝙿𝚎𝚝𝚎𝚛𝚜𝚋𝚞𝚛𝚐, 𝚁𝚞𝚜𝚜𝚒𝚊 <img src="https://media0.giphy.com/media/qZvLwg1Xcb33eMzaWb/giphy.gif" height=150px align="right">
 - Я чмо позорное
 
 ## 🛠 Список того, чего я не знаю:
