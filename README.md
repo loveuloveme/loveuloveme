@@ -17,8 +17,10 @@ Software Developer with cross-industry expertise. Experienced in front-end devel
   <img src="./assets/invc.webp" style="width:100%"/>
 </div>
 
-- ♠ I'm currently looking for job as UI developer
-- ♠ I'm currently learning Vue3
+## Quick about
+
+- ♠ I am currently looking for job as UI developer
+- ♠ I am currently learning Vue3
 - ♠ Fun fact: my favorite word is devotion
 
 ## Links to share
