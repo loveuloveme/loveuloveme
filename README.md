@@ -6,12 +6,9 @@
 Software Developer with cross-industry expertise. Experienced in front-end development, back-end technologies, and applied programming. Committed to delivering high-quality results on time. Seeking new opportunities to contribute and excel in a dynamic team environment.
 
 
-### <div align="center">I'm a student of ITMO University, Saint Petersburg, Russian.</div>
-
-
-#### Successfully completed a Bachelor's degree at ITMO University with a degree in Software Developer
-
-#### Currently persuing Master's degree in ITMO University on Web technologies program
+### <div>I'm a student of ITMO University, Saint Petersburg, Russian</div>
+Successfully completed a Bachelor's degree at ITMO University with a degree in Software Developer.<br/>
+Currently persuing Master's degree in ITMO University on Web technologies program.
 
 <div align="center">
   <img src="./assets/invc.webp" style="width:100%"/>
