@@ -16,7 +16,7 @@ Currently persuing Master's degree in ITMO University on Web technologies progra
 
 ## Quick about
 
-- ♠ I am currently looking for job as UI developer
+- ♠ I am currently looking for a job as UI developer
 - ♠ I am currently learning Vue3
 - ♠ Fun fact: my favorite word is devotion
 
