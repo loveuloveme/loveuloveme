@@ -2,7 +2,7 @@
   <img src="./assets/profile.webp" style="width:250px"/>
 </div>
 
-# <div align="center">I am Oleg Podkolzin <img src="./assets/invc_icon.png" style="width:50px"/></div>
+# <div align="center">I am Oleg Podkolzin</div>
 Software Developer with cross-industry expertise. Experienced in front-end development, back-end technologies, and applied programming. Committed to delivering high-quality results on time. Seeking new opportunities to contribute and excel in a dynamic team environment.
 
 
